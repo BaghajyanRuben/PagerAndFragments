@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PagerWithFragment</string>
+    <string name="first_fragment">This is %s Fragment</string>
+    <string name="open_new">Open New Screen</string>
+</resources>
